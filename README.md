@@ -7,7 +7,7 @@ This is my first UIkit app that introduce myself including some textfileds, labe
 
 
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="https://github.com/wwq010917/Intro/blob/main/Intro.gif" width=200><br> -->
 
 
 
